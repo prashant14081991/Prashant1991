@@ -39,11 +39,7 @@ public class w3class1 {
 		prompt.click();
 		line.click();
 		
-		
-		alertbox.click();
-		confirm.click();
-		prompt.click();
-		line.click();
+	
 		String mainpage =driver.getWindowHandle();
 		System.out.println(mainpage);
 		
